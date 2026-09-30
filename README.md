@@ -34,17 +34,11 @@ The Sales Dashboard project aims to provide insights and visual representations 
 ## Technologies Used
 
 - Microsoft Excel (for data analysis and visualization)
-- VBA (optional; for advanced interactivity and features)
+
   
-## Getting Started
 
-### Prerequisites
 
-- Microsoft Excel (2016 or newer preferred)
 
-### Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/sales-dashboard.git
-   cd sales-dashboard
+
+
